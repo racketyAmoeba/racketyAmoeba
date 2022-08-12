@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @racketyAmoeba
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on project using python
 - 📫 How to reach me ...
 
 <!---
